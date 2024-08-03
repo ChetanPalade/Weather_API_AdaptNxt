@@ -1,0 +1,30 @@
+{
+  "name": "weather_info",
+  "version": "1.0.0",
+  "description": "Weather Application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChetanPalade/Weather_API_AdaptNxt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ChetanPalade/Weather_API_AdaptNxt/issues"
+  },
+  "homepage": "https://github.com/ChetanPalade/Weather_API_AdaptNxt#readme",
+  "dependencies": {
+    "axios": "^1.7.3",
+    "date": "^2.0.5",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "https": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21"
+  }
+}
