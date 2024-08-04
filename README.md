@@ -1,7 +1,8 @@
 # Weather_API_AdaptNxt
 
 Node.Js project Using express, ejs where we fetch the weather data from weather api.
-![image](https://github.com/user-attachments/assets/10d5acb5-fbcc-46ca-bad9-94cedd881643)
+![image](https://github.com/user-attachments/assets/6f5e54c6-3a2e-4cbc-a776-59002989061a)
+
 
 
 
